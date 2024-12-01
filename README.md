@@ -22,6 +22,7 @@ This project employs various machine learning algorithms to predict churn, inclu
 - Decision Trees
 - Random Forests
 - Gradient Boosting Machines (GBM)
+  
   The models are evaluated based on metrics such as accuracy, precision, recall, F1-score, and ROC-AUC to ensure robust performance.
 
 
@@ -31,6 +32,7 @@ The results section of the notebook provides insights into model performance. Ke
 - Precision: The ratio of true positive predictions to the total predicted positives.
 - Recall: The ratio of true positives to the actual positives.
 - F1 Score: The harmonic mean of precision and recall.
+  
 Visualizations such as confusion matrices and ROC curves are included to illustrate model effectiveness.
 
 
