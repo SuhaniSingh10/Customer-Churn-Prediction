@@ -12,6 +12,7 @@ The dataset used in this project includes various features related to customer d
 - Tenure: Number of months the customer has been with the company.
 - Service Usage: Metrics related to how often customers use services (e.g., number of calls made).
 - Churn: A binary variable indicating whether a customer has churned (1) or not (0).
+  
   The dataset may require preprocessing steps such as handling missing values, encoding categorical variables, and scaling numerical features.
 
 
